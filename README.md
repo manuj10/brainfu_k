@@ -1,4 +1,4 @@
 brainfu_k
 ==================
 
-Programs written in brainf**k language
+Programs written in brainfu_k language
